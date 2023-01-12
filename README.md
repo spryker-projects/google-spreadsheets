@@ -7,7 +7,7 @@ CategoryExporter contains the client to read categories from key-value storage.
 ## Installation
 
 ```
-composer require spryker-demo/google-spreadsheets
+composer require spryker-projects/google-spreadsheets
 ```
 
 ## Configuration
